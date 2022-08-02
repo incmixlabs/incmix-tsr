@@ -1,5 +1,13 @@
 # @incmix/tsr-utils
 
+## 1.3.0
+
+### Minor Changes
+
+- 889ffe2: Added support for readonly keyword in TypeOperator.
+- c0a1c23: Fixed suboptimal optional key representation - the optional attribute is now appended alongside the rest of a type's attributes
+- 4689808: Added support for optional keys in objects
+
 ## 1.2.3
 
 ### Patch Changes
