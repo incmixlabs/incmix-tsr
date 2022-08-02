@@ -2,7 +2,7 @@
   "name": "@incmix/ts-runtime-lsp",
   "displayName": "TSR - LSP",
   "description": "Language Server Protocol for TSR files.",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "engines": {
     "atom": ">1.13.0",
     "vscode": "^0.0.0"
@@ -66,7 +66,7 @@
     }
   },
   "dependencies": {
-    "@incmix/ts.runtime": "2.5.3",
+    "@incmix/ts.runtime": "2.6.0",
     "typescript": "^4.7.2"
   },
   "publishConfig": {

@@ -1,6 +1,6 @@
 {
   "name": "@incmix/ts.runtime",
-  "version": "2.5.3",
+  "version": "2.6.0",
   "description": "",
   "types": "./dist/src/index.d.ts",
   "main": "./dist/src/index.js",

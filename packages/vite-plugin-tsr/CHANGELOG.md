@@ -1,5 +1,19 @@
 # @incmix/vite-plugin-tsr
 
+## 9.0.0
+
+### Minor Changes
+
+- 2e2f058: All statements following the import statements in the tsr files are now inserted into the transformed file - between the import statements and the statements that follow them.
+
+### Patch Changes
+
+- Updated dependencies [2e2f058]
+- Updated dependencies [889ffe2]
+- Updated dependencies [c0a1c23]
+- Updated dependencies [4689808]
+  - @incmix/ts.runtime@2.6.0
+
 ## 8.0.3
 
 ### Patch Changes
